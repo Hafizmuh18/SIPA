@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T16:30:27.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="ZLFMetKSDS6KId9W2sWB" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T16:37:28.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="oB6JS2mEVuXcytCAByOh" version="23.1.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2358" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="230" y="30" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-32" value="Memodifikasi Laporan sesuai catatan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="625" y="20" width="150" height="60" as="geometry" />
+          <mxGeometry x="640" y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="0gR7Kp13mZ-0E2FSBu5e-44" target="0gR7Kp13mZ-0E2FSBu5e-45">
           <mxGeometry relative="1" as="geometry" />
@@ -52,6 +52,11 @@
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="0gR7Kp13mZ-0E2FSBu5e-29" target="0gR7Kp13mZ-0E2FSBu5e-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0gR7Kp13mZ-0E2FSBu5e-84" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0gR7Kp13mZ-0E2FSBu5e-58">
+          <mxGeometry x="-0.0458" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="0gR7Kp13mZ-0E2FSBu5e-29" target="0gR7Kp13mZ-0E2FSBu5e-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -60,11 +65,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0gR7Kp13mZ-0E2FSBu5e-86" value="Iya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0gR7Kp13mZ-0E2FSBu5e-60">
+          <mxGeometry x="-0.8705" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-29" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Menyetujui Laporan ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="520" y="16.25" width="90" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-31" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Mengirim Kembali Laporan dengan Catatan Tambahan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="640" y="32.5" width="120" height="55" as="geometry" />
+          <mxGeometry x="655" y="32.5" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-33" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Mengirim surat laporan ke kantor koorporat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="800" y="32.5" width="120" height="55" as="geometry" />
@@ -120,12 +130,22 @@
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0gR7Kp13mZ-0E2FSBu5e-25" source="0gR7Kp13mZ-0E2FSBu5e-42" target="0gR7Kp13mZ-0E2FSBu5e-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0gR7Kp13mZ-0E2FSBu5e-87" value="Iya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0gR7Kp13mZ-0E2FSBu5e-72">
+          <mxGeometry x="-0.1856" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0gR7Kp13mZ-0E2FSBu5e-25" source="0gR7Kp13mZ-0E2FSBu5e-42" target="0gR7Kp13mZ-0E2FSBu5e-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1760" y="-40" />
               <mxPoint x="2155" y="-40" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0gR7Kp13mZ-0E2FSBu5e-88" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0gR7Kp13mZ-0E2FSBu5e-76">
+          <mxGeometry x="-0.8643" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0gR7Kp13mZ-0E2FSBu5e-42" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Laporan terdapat Masalah ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="0gR7Kp13mZ-0E2FSBu5e-25">
